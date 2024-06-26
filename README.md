@@ -20,3 +20,4 @@ light screens
 
 1. Clone the repository:
    ```sh
+   https://github.com/Makinyidarling/rn-assignment5-11233143.git
