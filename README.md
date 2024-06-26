@@ -20,4 +20,3 @@ light screens
 
 1. Clone the repository:
    ```sh
-   https://github.com/mrrjew/rn-assignment5-11225319.git
